@@ -45,16 +45,6 @@ The dataset consists of inbound call logs, capturing key performance metrics lik
 - **Data Visualizations**: Graphs, charts, and dashboards illustrating key trends and findings.
 - **Video Presentation**: A short video summarizing the analysis and actionable insights.
 
-## Getting Started
-
-To get started with this project, clone the repository to your local machine:
-
-```bash
-git clone https://github.com/yourusername/abc-call-volume-trend-analysis.git
-Open the Data folder and load the data into Excel for analysis (or Power BI for visualizations).
-Follow the steps to clean, explore, and analyze the data.
-Create visualizations to illustrate key trends (e.g., call volume vs. time, average call duration).
-Document the analysis in the provided template for the final report.
 How to Contribute
 Feel free to fork this repository, make changes, and submit pull requests with improvements or additional features.
 
@@ -64,3 +54,15 @@ For any questions or feedback, feel free to reach out:
 Name: Dhruv Singh
 Email: ds075156@gmail.com
 LinkedIn: https://www.linkedin.com/in/dhruv-singh-9a944a197/
+
+## Getting Started
+
+To get started with this project, clone the repository to your local machine:
+
+```bash
+git clone https://github.com/yourusername/abc-call-volume-trend-analysis.git
+
+Open the Data folder and load the data into Excel for analysis (or Power BI for visualizations).
+Follow the steps to clean, explore, and analyze the data.
+Create visualizations to illustrate key trends (e.g., call volume vs. time, average call duration).
+Document the analysis in the provided template for the final report.
